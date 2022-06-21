@@ -44,4 +44,4 @@ if (age < 18) {
 
 }
 
-finalPrice.innerHTML = `Il prezzo del tuo biglietto è: <strong>${price}</strong>!`;
+finalPrice.innerHTML = `Il prezzo del tuo biglietto è: <strong>${price}€</strong>!`;
